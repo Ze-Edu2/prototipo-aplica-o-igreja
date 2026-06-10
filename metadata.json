@@ -1,0 +1,6 @@
+{
+  "name": "Aplicativo da Igreja",
+  "description": "Aplicativo completo para gestão de igreja com controle de membros, dízimos, despesas, recados, eventos, estudos bíblicos, álbuns de fotos e pedidos de oração via WhatsApp.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
